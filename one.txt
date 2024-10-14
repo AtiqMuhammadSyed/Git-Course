@@ -1,0 +1,3 @@
+this is our first file in THREE FOLDER
+
+add another file to the folder and commit
